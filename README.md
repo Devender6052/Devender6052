@@ -1,25 +1,27 @@
 # Hey there 👋 I'm Devender
 
-🎓 AI & ML Student | 🚀 Future Data / ML Engineer  
+🎓 AI & ML Student | 💻 C++ & Python Learner | 🚀 Aspiring ML Engineer  
 
 ---
 
 ## 🧠 About Me
-- Passionate about technology & problem solving  
-- Currently building skills in Python & Data Analysis  
-- Focused on securing a Paid Internship  
+- AI & Machine Learning Enthusiast  
+- Practicing Data Structures & Algorithms in C++  
+- Building Python & Data Analysis skills  
+- Focused on securing a Paid Internship 💪  
 
 ---
 
-## 🚀 Currently Learning
+## 🚀 Currently Working On
 - Python Programming  
 - NumPy & Pandas  
 - Machine Learning Basics  
-- Data Analysis & Visualization  
+- DSA & Problem Solving (C++)  
 
 ---
 
 ## 🛠 Tech Stack
+- C++ ⚡  
 - Python 🐍  
 - Git & GitHub  
 - NumPy (Learning Phase)  
@@ -29,10 +31,11 @@
 
 ## 📌 Goals for 2026
 - Build strong ML & Data projects  
-- Contribute to open-source  
-- Crack a valuable internship 💪  
+- Strengthen DSA & problem solving  
+- Gain real-world internship experience  
+- Become industry-ready 🚀  
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ Philosophy
 Consistency > Motivation 🔥
